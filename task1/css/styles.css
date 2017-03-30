@@ -2,7 +2,6 @@
 	box-sizing:border-box;
 	font-family: sans-serif;
 	color:#605856;
-	font-size: 16px;
 }
 
 div#cover {
@@ -18,6 +17,7 @@ div#progress {
 
 div#progress_value {
 	position: absolute;
-	top:-25px;
-	right:-10px;
+	top:-45px;
+	right:-35px;
+	font-size: 40px;
 }
