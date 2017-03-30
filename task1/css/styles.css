@@ -1,0 +1,22 @@
+* {
+	box-sizing:border-box;
+	font-family: sans-serif;
+	color:#605856;
+}
+
+div#cover {
+	margin: 250px 25px auto 25px;
+	border:5px solid #605856;
+}
+
+div#progress {
+	height:25px;
+	position: relative;
+	background-color: #d0ccd0;
+}
+
+div#progress_value {
+	position: absolute;
+	top:-25px;
+	right:-10px;
+}
