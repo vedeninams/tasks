@@ -17,7 +17,7 @@ div#progress {
 
 div#progress_value {
 	position: absolute;
-	top:-45px;
+	top:-50px;
 	right:-35px;
 	font-size: 40px;
 }
